@@ -21,14 +21,4 @@ ORIGIN_URL = 'https://www.nike.com'
 # pushover api
 pushover_url = 'https://api.pushover.net/1/messages.json'
 
-# push over api token
-token = 'aizgie1muwed4agi4fw38qrvmxpn2e'
-
-# push over group access token
-user = 'girpu9xbttwv8ky48nmorm7f1h1i1c'
-
-# alert_over source id
-source_id = 's-2d6a5a7c-381a-4757-b3b5-dd535428'
-# alert_over receive id
-receive_id = 'g-1c2f9b5b-acb2-4002-872f-83ecce81'
 
