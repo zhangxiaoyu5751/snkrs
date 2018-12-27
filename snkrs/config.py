@@ -32,5 +32,3 @@ source_id = 's-2d6a5a7c-381a-4757-b3b5-dd535428'
 # alert_over receive id
 receive_id = 'g-1c2f9b5b-acb2-4002-872f-83ecce81'
 
-# push bear send_key
-send_key = '7598-b819c66246ce7a54285890cf84408729'
